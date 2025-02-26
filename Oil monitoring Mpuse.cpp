@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+//Final commit for complete program and notes
 
 int main() {
     // Declare variables to store temperature readings
